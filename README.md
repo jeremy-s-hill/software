@@ -1,1 +1,9 @@
 # software
+
+## chrome 53 87 122
+
+chrome 53 最后一个自带flash的版本
+chorme 87 最后一个支持flash的版本 且有对应可用的webdriver版本
+chorme 122 比较稳定的一个版本
+
+全部提供纯的7z文件
